@@ -1,0 +1,33 @@
+.row{
+    color:black;
+}
+.button{
+    position: absolute;
+    background-color: #254156;
+}
+.priority{
+    position: absolute;
+    left: 10.3%;
+    top: 18.5%;
+    outline: none;
+    border: none;
+    color:#1976D2;
+    background-color: #F5F5F5;
+}
+.value{
+    color: black;
+}
+.vector{
+    position: absolute;
+    top: 18.75%;
+    left: 19%;
+}
+.Table_view{
+    position: absolute;
+    left: 20.88%;
+    top: 18.5%;
+    outline: none;
+    border: none;
+    color: #616161;
+    background-color: #F5F5F5;
+}

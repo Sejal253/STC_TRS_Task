@@ -1,0 +1,35 @@
+ .blue{
+    background-color: #254156;
+    width: 85px;
+     height: 700px;
+     padding-left: 1%;
+     padding-top: 0.9%;
+ }
+ html, body{
+     height: 100%;
+     padding: 0;
+ }
+ .item{
+    display :flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+ }
+.vernavbar > a>h1{
+    color: #E8F5FF;
+    text-align: right;
+    padding:3% 10% 3% 0% ; 
+    margin-bottom: 1%;
+    font-size: 12.5px;
+    white-space: nowrap;
+}
+
+
+
+
+
+
+
+
+
